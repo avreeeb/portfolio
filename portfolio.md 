@@ -1,6 +1,8 @@
-# portfolio
-
-name:
-overview:
-email:
-
+---
+category: Graphic Design 
+projectname: Typograpgy Quote Booklet 
+overview: The assignment was to pick a subject or person and create a booklet illustration quotes by the person or quotes on the subject you chose. 
+photo: Andy Warhol Quote Bookles
+	img: andy-warhol.png
+	caption: A quote book designed to use handmade type and digital type to display a series of quotes by Andy Warhol.
+--- 
